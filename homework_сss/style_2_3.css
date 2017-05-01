@@ -1,0 +1,14 @@
+div {
+	border: dashed;
+	width: 270px;
+}
+
+.behind {
+	color: blue;
+	font-style: normal;
+}
+
+.above {
+	color: red;
+	font-style: normal;
+}

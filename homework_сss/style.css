@@ -1,0 +1,40 @@
+/*body {
+	background: blue;
+}*/
+h2 {
+	background: red;
+	height: 30px;
+	width: 90px;
+}
+#paragraph_1 {
+	height: 50px;
+	width: 270px;
+	background: blue;
+}
+#paragraph_2 {
+	height: 42px;
+	width: 270px;
+	background: yellow;
+}
+.one {
+	height: 40px;
+	width: 40px;
+	background: red;
+}
+.two {
+	height: 40px;
+	width: 80px;
+	background: orange;
+}
+.three {
+	height: 40px;
+	width: 120px;
+	background: blue;
+}
+.four {
+	height: 40px;
+	width: 120px;
+	background: orange;
+	text-align: center;
+	padding: 19px 0 0 0;
+}
